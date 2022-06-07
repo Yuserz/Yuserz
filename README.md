@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yuserz
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning python for machine learning(Thesis)
+- 🌱 Machine learning Enthusiast
 
 <!---
 Yuserz/Yuserz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
