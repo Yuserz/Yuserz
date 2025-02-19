@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Yusri 👋
 
-<!--
-**Yuserz/Yuserz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A graduate of BS Computer Science with experience in various tools and programming languages. 
+You can also check my projects in my simple porfolio: https://yusri-caloyloy-portfolio.vercel.app/
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working with:
+  
+![Frame 120d](https://github.com/user-attachments/assets/569cbd40-8d08-49bf-9c5c-dbaf26a9dc7f)
+![Frame 67](https://github.com/user-attachments/assets/1cb4e010-097a-4731-8e77-70026bf9b8fc)
+![Frame 67-2](https://github.com/user-attachments/assets/1446b379-c58b-4374-8531-f9a925421e3f)
+![Frame 119](https://github.com/user-attachments/assets/4737d52d-f833-4bd6-96bf-18b9657756d6)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+- 🌱 I’m currently learning:
+
+![image 2](https://github.com/user-attachments/assets/b99addd2-28b4-4c38-ba7d-224beb27f871)
+
+
+- 😄 Pronouns: Hehehehe(by Yano) / Him
+  
+
+
+
+- 📫 How to reach me:
+    https://www.linkedin.com/in/yusri-caloyloy-b19217204/
+
+
