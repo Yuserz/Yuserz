@@ -1,7 +1,7 @@
 # Hi there, I'm Yusri 👋
 
-A graduate of BS Computer Science with experience in various tools and programming languages. 
-You can also check my projects in my simple porfolio: https://yusri-caloyloy-portfolio.vercel.app/
+A BS Computer Science grad with experience in various tools and programming languages. 
+You can check my simple porfolio here: https://yusri-caloyloy-portfolio.vercel.app/
 
 - 🔭 I’m currently working with:
   
