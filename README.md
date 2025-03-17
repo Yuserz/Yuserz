@@ -14,9 +14,10 @@ You can check my simple porfolio here: https://yusri-caloyloy-portfolio.vercel.a
 
 
 
-- 🌱 I’m currently learning:
+- 🌱 I’m currently learning: 
+  - Supabase
+  - GraphQL
 
-![image 2](https://github.com/user-attachments/assets/b99addd2-28b4-4c38-ba7d-224beb27f871)
 
 
 - 😄 Pronouns: Hehehehe(by Yano) / Him
